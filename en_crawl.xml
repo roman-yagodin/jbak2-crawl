@@ -71,5 +71,15 @@
   <Key android:keyLabel="&gt;" />
   <!-- <Key android:keyLabel="sel" android:isSticky="true" android:codes="-310" android:specKey="true" android:smallLabel="true" /> -->
  </Row>
+ <Row>
+   <Key android:keyLabel="za" android:specKey="true" />
+   <Key android:keyLabel="zb" android:specKey="true" />
+   <Key android:keyLabel="zc" android:specKey="true" />
+   <Key android:keyLabel="zd" android:specKey="true" />
+   <Key android:keyLabel="ze" android:specKey="true" />
+   <Key android:keyLabel="zf" android:specKey="true" />
+   <Key android:keyLabel="zg" android:specKey="true" />
+   <Key android:keyLabel="zh" android:specKey="true" />
+ </Row>
 </Keyboard>
 
