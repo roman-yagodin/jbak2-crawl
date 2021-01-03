@@ -73,15 +73,15 @@
   <!-- <Key android:keyLabel="sel" android:isSticky="true" android:codes="-310" android:specKey="true" android:smallLabel="true" /> -->
  </Row>
  <Row>
-   <Key android:keyLabel="za" android:specKey="true" />
-   <Key android:keyLabel="zb" android:specKey="true" />
-   <Key android:keyLabel="zc" android:specKey="true" />
-   <Key android:keyLabel="zd" android:specKey="true" />
-   <Key android:keyLabel="ze" android:specKey="true" />
-   <Key android:keyLabel="zf" android:specKey="true" />
-   <Key android:keyLabel="aa" android:specKey="true" android:horizontalGap="1%p" />
-   <Key android:keyLabel="ab" android:specKey="true" />
-   <Key android:keyLabel="ac" android:specKey="true" />
+   <Key android:keyLabel="za" android:keyOutputText="za" android:specKey="true" />
+   <Key android:keyLabel="zb" android:keyOutputText="zb" android:specKey="true" />
+   <Key android:keyLabel="zc" android:keyOutputText="zc" android:specKey="true" />
+   <Key android:keyLabel="zd" android:keyOutputText="zd" android:specKey="true" />
+   <Key android:keyLabel="ze" android:keyOutputText="ze" android:specKey="true" />
+   <Key android:keyLabel="zf" android:keyOutputText="zf" android:specKey="true" />
+   <Key android:keyLabel="aa" android:keyOutputText="aa" android:specKey="true" android:horizontalGap="1%p" />
+   <Key android:keyLabel="ab" android:keyOutputText="ab" android:specKey="true" />
+   <Key android:keyLabel="ac" android:keyOutputText="ac" android:specKey="true" />
  </Row>
 </Keyboard>
 
