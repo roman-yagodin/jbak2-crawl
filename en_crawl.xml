@@ -79,8 +79,9 @@
    <Key android:keyLabel="zd" android:specKey="true" />
    <Key android:keyLabel="ze" android:specKey="true" />
    <Key android:keyLabel="zf" android:specKey="true" />
-   <Key android:keyLabel="zg" android:specKey="true" />
-   <Key android:keyLabel="zh" android:specKey="true" />
+   <Key android:keyLabel="aa" android:specKey="true" android:horizontalGap="1%p" />
+   <Key android:keyLabel="ab" android:specKey="true" />
+   <Key android:keyLabel="ac" android:specKey="true" />
  </Row>
 </Keyboard>
 
