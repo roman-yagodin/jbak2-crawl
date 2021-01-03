@@ -62,6 +62,7 @@
  </Row>
  <Row>
   <Key android:keyLabel="ctrl" android:codes="-309" android:specKey="true" android:keyWidth="9.0%p" android:isSticky="true" android:smallLabel="true" />
+  <Key android:codes="-2" android:keyLabel="opt\n123" android:keyWidth="9.3%p" />
   <Key android:keyLabel="alt" android:codes="-308" android:specKey="true" android:keyWidth="9.0%p" android:isSticky="true" android:smallLabel="true" />
   <!-- <Key android:codes="-320" android:keyLabel="copy" android:smallLabel="true" android:keyWidth="9.3%p" android:specKey="true" /> -->
   <!-- <Key android:codes="-321" android:keyLabel="paste" android:smallLabel="true" android:keyWidth="9.3%p" android:specKey="true" /> -->
@@ -69,7 +70,6 @@
   <Key android:codes="32" android:keyIcon="@drawable/sym_keyboard_space" android:keyWidth="34.8%p" android:isRepeatable="true" />
   <Key android:keyLabel="&quot;\n&gt;" />
   <!-- <Key android:keyLabel="sel" android:isSticky="true" android:codes="-310" android:specKey="true" android:smallLabel="true" /> -->
-  <Key android:codes="-2" android:keyLabel="opt\n123" android:keyWidth="9.3%p" />  
  </Row>
 </Keyboard>
 
