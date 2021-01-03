@@ -72,7 +72,7 @@
   <Key android:keyLabel="&gt;" />
   <!-- <Key android:keyLabel="sel" android:isSticky="true" android:codes="-310" android:specKey="true" android:smallLabel="true" /> -->
  </Row>
- <Row>
+ <Row android:keyHeight="80%p">
    <Key android:keyLabel="za" android:keyOutputText="za" android:specKey="true" />
    <Key android:keyLabel="zb" android:keyOutputText="zb" android:specKey="true" />
    <Key android:keyLabel="zc" android:keyOutputText="zc" android:specKey="true" />
