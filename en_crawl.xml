@@ -22,9 +22,9 @@
   <Key android:keyLabel="w" />
   <Key android:keyLabel="e" />
   <Key android:keyLabel="r" />
-  <Key android:keyLabel="t" />
   <Key android:keyLabel="y" android:specKey="true" />
   <Key android:keyLabel="u" android:specKey="true" />
+  <Key android:keyLabel="t" />
   <Key android:keyLabel="i" />
   <Key android:keyLabel="o" />
   <Key android:keyLabel="p" />
