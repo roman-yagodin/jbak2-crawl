@@ -1,6 +1,7 @@
 # About jbak2-crawl
 
-Jbak2 keyboard layout for [Dungeon Crawl: Stone Soup](http://https://crawl.develz.org)
+Jbak2 keyboard layout for [Dungeon Crawl: Stone Soup](http://https://crawl.develz.org).
+Make the *almost perfect roguelike* more playable on mobile devices!
 
 ## Features
 
@@ -11,7 +12,7 @@ Jbak2 keyboard layout for [Dungeon Crawl: Stone Soup](http://https://crawl.devel
 
 ## Install
 
-1. Install *Jbak2 keyboard* for Android via [Google Play](https://play.google.com/store/apps/details?id=com.jbak2.JbakKeyboard) (old version, not updated) or from [developer website](https://jbak2.ucoz.net/load/) (recent version).
+1. Install and activate *Jbak2 keyboard* for Android via [Google Play](https://play.google.com/store/apps/details?id=com.jbak2.JbakKeyboard) (old version, not updated) or from [developer website](https://jbak2.ucoz.net/load/) (recent version).
 2. Copy `en_crawl.xml` into `jbak2Keyboard/keyboards` folder on your phone storage.
 3. Select new layout from keyboard quicksettings wizard for english language.
 
