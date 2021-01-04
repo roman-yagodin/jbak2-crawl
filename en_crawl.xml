@@ -32,7 +32,6 @@
   <Key android:keyLabel="}\n]" />
  </Row>
  <Row>
-  <!-- <Key android:codes="-20" android:keyWidth="9.0%p" android:keyLabel="d_vr\nEn" /> -->
   <Key android:keyLabel="A\na" />
   <Key android:keyLabel="S\ns" />
   <Key android:keyLabel="D\nd" />
@@ -43,7 +42,7 @@
   <Key android:keyLabel="K\nk" android:keyWidth="8.45%p" android:specKey="true" />
   <Key android:keyLabel="L\nl" android:keyWidth="8.45%p" android:specKey="true" />
   <Key android:keyLabel=":\n;" />
-  <Key android:keyLabel="&quot;\n'" />
+  <Key android:keyLabel="&quot;\n&amp;" />
   <Key android:codes="10" android:keyIcon="@drawable/sym_keyboard_return" android:keyWidth="17.0%p" />
  </Row>
  <Row>
@@ -65,26 +64,9 @@
   <Key android:keyLabel="ctrl" android:codes="-309" android:specKey="true" android:keyWidth="16.0%p" android:isSticky="true" android:smallLabel="true" />
   <Key android:codes="-2" android:keyLabel="opt\n123" />
   <Key android:keyLabel="alt" android:codes="-308" android:specKey="true" android:keyWidth="16.0%p" android:isSticky="true" android:smallLabel="true" />
-  <!-- <Key android:codes="-320" android:keyLabel="copy" android:smallLabel="true" android:keyWidth="9.3%p" android:specKey="true" /> -->
-  <!-- <Key android:codes="-321" android:keyLabel="paste" android:smallLabel="true" android:keyWidth="9.3%p" android:specKey="true" /> -->
   <Key android:keyLabel="&lt;" />
-  <Key android:codes="32" android:keyIcon="@drawable/sym_keyboard_space" android:keyWidth="30%p" android:isRepeatable="true" />
+  <Key android:codes="32" android:keyIcon="@drawable/sym_keyboard_space" android:keyWidth="30.0%p" android:isRepeatable="true" />
   <Key android:keyLabel="&gt;" />
-  <!-- <Key android:keyLabel="sel" android:isSticky="true" android:codes="-310" android:specKey="true" android:smallLabel="true" /> -->
-  <Key android:keyLabel="esc" android:codes="27" android:specKey="true" android:smallLabel="true" android:keyWidth="17%p"/>
+  <Key android:keyLabel="esc" android:codes="27" android:specKey="true" android:smallLabel="true" android:keyWidth="17.0%p"/>
  </Row>
- <!--
- <Row android:keyHeight="80%p">
-   <Key android:keyLabel="za" android:keyOutputText="za" android:specKey="true" />
-   <Key android:keyLabel="zb" android:keyOutputText="zb" android:specKey="true" />
-   <Key android:keyLabel="zc" android:keyOutputText="zc" android:specKey="true" />
-   <Key android:keyLabel="zd" android:keyOutputText="zd" android:specKey="true" />
-   <Key android:keyLabel="ze" android:keyOutputText="ze" android:specKey="true" />
-   <Key android:keyLabel="zf" android:keyOutputText="zf" android:specKey="true" />
-   <Key android:keyLabel="aa" android:keyOutputText="aa" android:specKey="true" android:horizontalGap="1%p" />
-   <Key android:keyLabel="ab" android:keyOutputText="ab" android:specKey="true" />
-   <Key android:keyLabel="ac" android:keyOutputText="ac" android:specKey="true" />
- </Row>
- -->
 </Keyboard>
-
