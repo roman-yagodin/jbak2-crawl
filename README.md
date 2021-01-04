@@ -2,7 +2,7 @@
 
 Jbak2 keyboard layout for [Dungeon Crawl: Stone Soup](http://https://crawl.develz.org).
 
-Make the *almost perfect roguelike* more playable on mobile devices!
+Make the "almost perfect roguelike" more playable on mobile devices!
 
 ## Features
 
