@@ -42,7 +42,7 @@
   <Key android:keyLabel="K\nk" android:keyWidth="8.45%p" android:specKey="true" />
   <Key android:keyLabel="L\nl" android:keyWidth="8.45%p" android:specKey="true" />
   <Key android:keyLabel=":\n;" />
-  <Key android:keyLabel="&quot;\n&amp;" />
+  <Key android:keyLabel="&quot;\n'" />
   <Key android:codes="10" android:keyIcon="@drawable/sym_keyboard_return" android:keyWidth="17.0%p" />
  </Row>
  <Row>
