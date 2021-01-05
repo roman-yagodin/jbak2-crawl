@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Keyboard xmlns:android="http://schemas.android.com/apk/res/android" android:keyWidth="7.0%p" >
  <Row>
-  <Key android:keyLabel="~\n`" />
-  <Key android:keyLabel="!\n1" />
-  <Key android:keyLabel="@\n2" />
-  <Key android:keyLabel="#\n3" />
-  <Key android:keyLabel="$\n4" />
-  <Key android:keyLabel="%\n5" />
-  <Key android:keyLabel="^\n6" />
-  <Key android:keyLabel="&amp;\n7" />
-  <Key android:keyLabel="*\n8" />
-  <Key android:keyLabel="(\n9" />
-  <Key android:keyLabel=")\n0" />
-  <Key android:keyLabel="_\n-" />
-  <Key android:keyLabel="+\n=" />
+  <Key android:keyLabel="`\n~" />
+  <Key android:keyLabel="1\n!" />
+  <Key android:keyLabel="2\n@" />
+  <Key android:keyLabel="3\n#" />
+  <Key android:keyLabel="4\n$" />
+  <Key android:keyLabel="5\n%" />
+  <Key android:keyLabel="6\n^" />
+  <Key android:keyLabel="7\n&amp;" />
+  <Key android:keyLabel="8\n*" />
+  <Key android:keyLabel="9\n(" />
+  <Key android:keyLabel="0\n)" />
+  <Key android:keyLabel="-\n_" />
+  <Key android:keyLabel="=\n+" />
   <Key android:codes="-5" android:keyIcon="@drawable/sym_keyboard_delete" android:keyWidth="9.0%p" android:isRepeatable="true" />
  </Row>
  <Row>
