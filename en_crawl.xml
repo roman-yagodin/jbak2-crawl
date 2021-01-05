@@ -67,6 +67,6 @@
   <Key android:keyLabel="&lt;" />
   <Key android:codes="32" android:keyIcon="@drawable/sym_keyboard_space" android:keyWidth="30.0%p" android:isRepeatable="true" />
   <Key android:keyLabel="&gt;" />
-  <Key android:keyLabel="esc" android:codes="27" android:specKey="true" android:smallLabel="true" android:keyWidth="17.0%p"/>
+  <Key android:keyLabel="esc" android:codes="-5111" android:specKey="true" android:smallLabel="true" android:keyWidth="17.0%p"/>
  </Row>
 </Keyboard>
