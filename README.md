@@ -9,6 +9,7 @@ Make the "almost perfect roguelike" more playable on mobile devices!
 - Minimal QWERTY-based layout with `Esc`, `Tab`, `Ctrl` and `Alt` keys.
 - Comfortably located and highlighted *vi* directional keys.
 - Enter caps by long tap, without `Shift`.
+- F1-F12 keys for macro etc.
 - Fully customizable.
 
 ## Install
