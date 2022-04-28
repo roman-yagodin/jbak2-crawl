@@ -45,7 +45,7 @@
   <Key android:keyLabel="}\n]" />
  </Row>
  <Row>
-  <Key android:keyLabel="&quot;\n'" android:keyWidth="9.0%p" />
+  <Key android:codes="-20" android:keyLabel="d_vr\nLng" android:keyWidth="9.0%p" android:smallLabel="true" android:specKey="true" />
   <Key android:keyLabel="A\na" />
   <Key android:keyLabel="S\ns" />
   <Key android:keyLabel="D\nd" />
@@ -55,10 +55,10 @@
   <Key android:keyLabel="J\nj" android:keyWidth="10.0%p" android:specKey="true" />
   <Key android:keyLabel="K\nk" android:keyWidth="10.0%p" android:specKey="true" />
   <Key android:keyLabel="L\nl" android:keyWidth="10.0%p" android:specKey="true" />
-  <Key android:codes="10" android:keyIcon="@drawable/sym_keyboard_return" android:keyWidth="17.0%p" />
+  <Key android:codes="10" android:keyIcon="@drawable/sym_keyboard_return" android:keyWidth="16.0%p" />
  </Row>
  <Row>
-  <Key android:keyLabel="shift" android:codes="-1"  android:specKey="true"  android:keyWidth="17.0%p" android:isSticky="true" android:smallLabel="true" />
+  <Key android:codes="-1" android:keyIcon="@drawable/sym_keyboard_shift" android:keyWidth="17.0%p" android:isSticky="true" />
   <Key android:keyLabel="|\n\\" />
   <Key android:keyLabel="Z\nz" />
   <Key android:keyLabel="X\nx" />
@@ -68,16 +68,17 @@
   <Key android:keyLabel="N\nn" android:keyWidth="10.0%p" android:specKey="true" />
   <Key android:keyLabel="M\nm" />
   <Key android:keyLabel=":\n;" />
-  <Key android:keyLabel=",\n." />
+  <Key android:keyLabel="&quot;\n'" />
   <Key android:keyLabel="/\n?" />
  </Row>
  <Row>
-  <Key android:keyLabel="ctrl" android:codes="-309" android:specKey="true" android:keyWidth="17.0%p" android:isSticky="true" android:smallLabel="true" />
-  <Key android:codes="-2" android:keyLabel="opt\n123" />
-  <Key android:keyLabel="alt" android:codes="-308" android:specKey="true" android:keyWidth="17.0%p" android:isSticky="true" android:smallLabel="true" />
-  <Key android:keyLabel="&lt;" android:keyWidth="10.0%p" />
-  <Key android:codes="32" android:keyIcon="@drawable/sym_keyboard_space" android:keyWidth="24.0%p" android:isRepeatable="true" />
-  <Key android:keyLabel="&gt;" android:keyWidth="10.0%p" />
+  <Key android:codes="-2" android:keyLabel="opt\n123" android:keyWidth="11.0%p" android:smallLabel="true" />
+  <Key android:keyLabel="ctrl^" android:codes="-309" android:specKey="true" android:keyWidth="17.0%p" android:isSticky="true" android:smallLabel="true" />
+  <Key android:keyLabel="alt" android:codes="-308" android:specKey="true" android:keyWidth="11.0%p" android:isSticky="true" android:smallLabel="true" />
+  <Key android:keyLabel="&lt;" android:keyWidth="11.0%p" />
+  <Key android:codes="32" android:keyIcon="@drawable/sym_keyboard_space" android:keyWidth="11.0%p" android:isRepeatable="true" />
+  <Key android:keyLabel="&gt;" android:keyWidth="11.0%p" />
+  <Key android:keyLabel=",\n." android:keyWidth="11.0%p" />
   <Key android:keyLabel="esc" android:codes="-5111" android:specKey="true" android:smallLabel="true" android:keyWidth="17.0%p"/>
  </Row>
 </Keyboard>
