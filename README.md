@@ -4,6 +4,8 @@ Jbak2 keyboard layout for [Dungeon Crawl: Stone Soup](http://https://crawl.devel
 
 Make the "almost perfect roguelike" more playable on mobile devices!
 
+![Screenshot](https://github.com/roman-yagodin/jbak2-crawl/blob/master/1.jpg "jbak2-crawl keyboard layout with Notebook skin")
+
 ## Features
 
 - Minimal QWERTY-based layout with `Esc`, `Tab`, `Ctrl` and `Alt` keys.
